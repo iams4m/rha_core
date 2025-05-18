@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: rha_core
+Version: 0.1
+Summary: Rational Harmonic Arithmetic core library
+Author: Sam Hassanine
+Requires-Python: >=3.7
+Dynamic: author
+Dynamic: requires-python
+Dynamic: summary
